@@ -1,3 +1,3 @@
 # Exercism
 
-[Pangram Exercise](/_pavelpolcr_/_Exercism_/tree/_master_)
+[Pangram Exercise](/pavelpolcr/Exercism/tree/master)
