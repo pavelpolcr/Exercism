@@ -1,2 +1,3 @@
 # Exercism
-<A href=www.github.com/pavelpolcr/Exercism/tree/master/csharp/pangram>Pangram Exercise</A>
+
+[Pangram Exercise](/_pavelpolcr_/_Exercism_/tree/_master_)
